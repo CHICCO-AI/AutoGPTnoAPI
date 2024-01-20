@@ -1,0 +1,16 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  
+}
+"ghcr.io/flexwie/devcontainer-features/op:1": {}
+"ghcr.io/elanhasson/devcontainer-features/dotnet-aspire-daily:1": {}
+"ghcr.io/itsmechlark/features/1password:1": {}
+"ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {}
+"ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {}
+"ghcr.io/devcontainers-contrib/features/amplify-cli:2": {}
+"ghcr.io/gmkonan/feature/airplane:1": {}
+"ghcr.io/eliises/devcontainer-features/devcontainers-cli:1": {}
+"ghcr.io/lee-orr/rusty-dev-containers/cargo-expand:0": {}
+
+}
